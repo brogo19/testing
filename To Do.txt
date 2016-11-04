@@ -3,3 +3,5 @@ Learn:
   2. Robot Framework
   3. Ansible
   4. Splunk
+  5. Ostinato
+  6. Advanced Python
