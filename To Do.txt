@@ -5,3 +5,6 @@ Learn:
   4. Splunk
   5. Ostinato
   6. Advanced Python
+  7. Docker
+  8. Jinja2
+  9. Jenkins
